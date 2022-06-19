@@ -55,15 +55,14 @@
         border-color: aquamarine;
         border-width: 10px;
         border-radius: 200px;
-        /*transition: 0.3s;*/
+        transition: 0.3s;
         width:250px;
         height:250px;
       }
 
-      /*img:hover {
-        border-color: rgb(255, 202, 96);   
-        transform:scale(1.1);
-      }*/
+      img:hover {
+        border-color: rgb(255, 202, 96);  
+      }
 
       li {
         transition: 0.3s;
