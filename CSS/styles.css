@@ -1,0 +1,41 @@
+      body {
+        background-color: #e5e6ff;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      hr {
+        height: 0px;   
+        border-style: dotted none none; 
+        width: 10%;
+        border-color: blueviolet;
+        border-width: 5px;  
+      }
+      h1 {
+        color: orangered;
+        text-align: center;
+        background-color: aquamarine;
+      }
+
+      h2 {
+        color: #A569BD;
+        text-align: center;
+      }
+
+      h3 {
+        color: #145A32;
+      }
+
+      p {
+        background-color: greenyellow;
+      }
+
+      img {
+        background-color: #e4d5a8;
+        border-style: groove;
+        border-color: chartreuse;
+        border-width: 10px;
+      }
+
+     
+
+      
+
